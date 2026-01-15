@@ -38,7 +38,20 @@ I am particularly interested in data-driven decision-making at the intersection 
 ### Badges
 
 <b>My GitHub Stats</b>
+<br />
 
-<a href="http://www.github.com/MusuCheng"><img src="https://github-readme-stats.vercel.app/api?username=MusuCheng&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="MusuCheng's GitHub stats" /></a>
+<a href="https://github.com/MusuCheng">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MusuCheng&show_icons=true&hide=stars,prs,issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true"
+    alt="MusuCheng's GitHub stats"
+  />
+</a>
 
-<a href="https://github.com/MusuCheng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusuCheng&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br /><br />
+
+<a href="https://github.com/MusuCheng">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusuCheng&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages"
+    alt="Top Languages"
+  />
+</a>
